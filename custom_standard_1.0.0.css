@@ -13,10 +13,9 @@
 /* Custom, iPhone Retina */ 
     /* @media only screen and (min-width : 320px) */
     /* -xxs- */
-body{
-    font-size: 90px;
-}
+
 /* Info: Default css classes */
+
 .padding-64{
     padding: 64px;
 }
