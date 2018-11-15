@@ -1190,7 +1190,9 @@
     .no-margin-xxs, .margin-xxs-0{
         margin: 0 !important;
     }
-
+    .hidden-xxs{
+        display: none !important;
+    }
 }
 
 /* Extra Small Devices, Phones */ 
@@ -1720,6 +1722,9 @@
     .no-margin-xs, .margin-xs-0{
         margin: 0 !important;
     }
+    .hidden-xs{
+        display: none !important;
+    }
 }
 
 /* Small Devices, Tablets */
@@ -2248,6 +2253,9 @@
     }
     .no-margin-sm, .margin-sm-0{
         margin: 0 !important;
+    }
+    .hidden-sm{
+        display: none !important;
     }
 
 }
@@ -2779,6 +2787,9 @@
     .no-margin-md, .margin-md-0{
         margin: 0 !important;
     }
+    .hidden-md{
+        display: none !important;
+    }
 
 }
 
@@ -3308,6 +3319,9 @@
     }
     .no-margin-lg, .margin-lg-0{
         margin: 0 !important;
+    }
+    .hidden-lg{
+        display: none !important;
     }
 
 }
